@@ -1,4 +1,4 @@
-package com.benjsicam.javawindowsservice;
+//comments package com.benjsicam.javawindowsservice;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
