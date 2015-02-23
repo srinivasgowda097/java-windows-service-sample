@@ -8,5 +8,5 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 @ComponentScan(basePackages="com.benjsicam.javawindowsservice")
 public class AppConfiguration {
-	
+	system.out.println("Test");
 }
